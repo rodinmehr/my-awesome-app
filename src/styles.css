@@ -1,0 +1,57 @@
+.card {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+h1 {
+    color: rgb(31, 30, 30);
+}
+
+h2 {
+    color: rgb(80, 80, 80);
+}
+
+h3 {
+    color: rgb(100, 100, 100);
+}
+
+ul {
+    list-style: none;
+}
+
+ul li {
+    display: inline;
+    margin-right: 15px;
+}
+
+ul li a {
+    text-decoration: none;
+}
+
+.btn {
+    border-radius: 0;
+}
+
+#main-weather-div img {
+    display: inline;
+}
+
+#main-weather-div h2 {
+    display: inline;
+}
+
+.main-weather-img {
+    width: 100px;
+}
+
+.sub-weather-img {
+    width: 60px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
